@@ -1,0 +1,1126 @@
+{
+ "generated": "2026-11-19",
+ "records": [
+  {
+   "id": "h01",
+   "layer": "journey",
+   "title": "A child mill worker's two-mile walk in the dark",
+   "person": "Elizabeth Bentley",
+   "occupation": "Doffer in a flax mill, from the age of six",
+   "start": 1832,
+   "end": 1832,
+   "dateLabel": "Described in evidence given in 1832 (about earlier years; the exact years are not given in this transcript)",
+   "mode": "Not stated (no transport is mentioned)",
+   "region": "Leeds, Yorkshire",
+   "origin": {
+    "place": "Home, about two miles from the mill",
+    "precision": "unknown",
+    "note": "The testimony gives a distance, not an address."
+   },
+   "destination": {
+    "place": "Flax mill, Leeds (Hunslet)",
+    "original": "the mill; 'Hunslet Car' is named",
+    "lon": -1.55027,
+    "lat": 53.80919,
+    "precision": "area",
+    "note": "Hunslet is named in the testimony; the mill's site isn't given in this transcript. Marker at Leeds' representative point."
+   },
+   "account": "Giving evidence in 1832, Bentley said she started work as a little doffer at six, lived two miles from the mill and her family had no clock. Her mother got up around 4 a.m. to make sure she was on time. She described waiting at Hunslet Car at 2 a.m. in the rain until the mill opened, and said that a quarter of an hour's lateness cost half an hour's pay.",
+   "quote": "Did you live far from the mill? — Yes, two miles.",
+   "sources": [
+    {
+     "title": "Testimony before the Sadler Committee, 1832 (transcribed extract)",
+     "url": "https://digfir-published.macmillanusa.com/mckaysources/mckaysources_ch23_5.html",
+     "accessed": "2026-11-19",
+     "institution": "Select Committee on the Factories Bill (Sadler Committee), British Parliamentary Papers 1831–32; extract published by Macmillan Learning",
+     "published": "1832"
+    }
+   ],
+   "caveats": "Evidence collected by a committee campaigning to limit children's hours. It describes one witness's experience, not a measured commute."
+  },
+  {
+   "id": "h02",
+   "layer": "journey",
+   "title": "Workmen's trains into Liverpool Street before dawn",
+   "person": "Workers using Great Eastern Railway workmen's trains (a group, not individuals)",
+   "occupation": "Workmen (not further specified)",
+   "start": 1893,
+   "end": 1893,
+   "dateLabel": "Service described in Parliament on 16 March 1893",
+   "mode": "Workmen's trains (cheap early-morning fares)",
+   "region": "London",
+   "origin": {
+    "place": "Enfield Town station",
+    "original": "Enfield or Lower Edmonton",
+    "lon": -0.0792,
+    "lat": 51.6516,
+    "precision": "approximate",
+    "note": "Trains came from Enfield or Lower Edmonton; the marker is at Enfield Town station (Wikipedia coordinates)."
+   },
+   "destination": {
+    "place": "Liverpool Street station",
+    "original": "Liverpool Street",
+    "lon": -0.0813,
+    "lat": 51.5186,
+    "precision": "exact",
+    "note": null
+   },
+   "account": "Asked about overcrowding on Great Eastern workmen's trains between Enfield and London, the President of the Board of Trade, A. J. Mundella, said that 13 trains arrived at Liverpool Street from Enfield or Lower Edmonton between 4.40 a.m. and 7.50 a.m. Eight were 2d. trains and five were half-fare trains, and some trains were more popular, and more crowded, than others.",
+   "quote": "13 trains arrive at Liverpool Street from either Enfield or Lower Edmonton",
+   "sources": [
+    {
+     "title": "House of Commons debate: Overcrowded workmen's trains",
+     "url": "https://api.parliament.uk/historic-hansard/commons/1893/mar/16/overcrowded-workmens-trains",
+     "accessed": "2026-11-19",
+     "institution": "UK Parliament, Historic Hansard",
+     "published": "16 March 1893",
+     "ref": "HC Deb 16 March 1893 vol 10 c236"
+    }
+   ],
+   "caveats": "Counts trains, not passengers. The question was asked by Captain Henry Bowles, MP for Enfield.",
+   "modern": {
+    "origin": "Enfield Town station",
+    "destination": "Liverpool Street station",
+    "note": "Both stations are still open, so the modern comparison uses the same two stations."
+   }
+  },
+  {
+   "id": "h03",
+   "layer": "statistic",
+   "title": "The City of London: 13,709 by night, 436,721 by day",
+   "person": "People enumerated in, or working in, the City of London",
+   "start": 1921,
+   "end": 1921,
+   "dateLabel": "Census day, 19 June 1921",
+   "region": "London",
+   "count": 436721,
+   "origin": {
+    "place": "City of London",
+    "original": null,
+    "lon": -0.0869,
+    "lat": 51.5103,
+    "precision": "area",
+    "note": "Marker placed in the City; the figures cover the whole City."
+   },
+   "destination": {
+    "place": "City of London",
+    "original": null,
+    "lon": -0.0869,
+    "lat": 51.5103,
+    "precision": "area",
+    "note": null
+   },
+   "account": "The 1921 Census was the first in England and Wales to ask for each worker's place of work. The General Report describes the City of London as almost completely non-residential: a night (enumerated) population of 13,709 and a day population of 436,721, more than thirty times as large. It estimates that central London gained rather more than 800,000 people during the day, about half of them going to the City.",
+   "quote": "more than thirty times as large day population of 436,721",
+   "sources": [
+    {
+     "title": "1921 Census of England and Wales, General Report with Appendices, Part XI: Workplaces",
+     "url": "https://www.visionofbritain.org.uk/census/EW1921GEN/12",
+     "accessed": "2026-11-19",
+     "institution": "General Register Office (HMSO); transcription by A Vision of Britain through Time, University of Portsmouth",
+     "ref": "Part XI, Workplaces; Tables XC–XCII"
+    }
+   ],
+   "caveats": "Day population counts people with 'no fixed workplace' or no stated workplace as working where they were enumerated, and excludes shoppers and visitors. The census was postponed to 19 June 1921, when some people were away on holiday, and unemployed people were asked for their last workplace."
+  },
+  {
+   "id": "h04",
+   "layer": "statistic",
+   "title": "Westminster's day population: 385,984",
+   "person": "People working in the Metropolitan Borough of Westminster",
+   "start": 1921,
+   "end": 1921,
+   "dateLabel": "Census day, 19 June 1921",
+   "region": "London",
+   "count": 385984,
+   "origin": {
+    "place": "Westminster",
+    "original": "Metropolitan Borough of Westminster",
+    "lon": -0.16516,
+    "lat": 51.5151,
+    "precision": "area",
+    "note": "Marker at the representative point of the 2011 Westminster & City census area; the 1921 borough boundary differed."
+   },
+   "destination": {
+    "place": "Westminster",
+    "original": "Metropolitan Borough of Westminster",
+    "lon": -0.16516,
+    "lat": 51.5151,
+    "precision": "area",
+    "note": "Marker at the representative point of the 2011 Westminster & City census area; the 1921 borough boundary differed."
+   },
+   "account": "Of London's 28 metropolitan boroughs, Westminster had the largest day population in 1921 (385,984), although it ranked only 15th by the number of people enumerated there.",
+   "sources": [
+    {
+     "title": "1921 Census of England and Wales, General Report with Appendices, Part XI: Workplaces",
+     "url": "https://www.visionofbritain.org.uk/census/EW1921GEN/12",
+     "accessed": "2026-11-19",
+     "institution": "General Register Office (HMSO); transcription by A Vision of Britain through Time, University of Portsmouth",
+     "ref": "Part XI, Workplaces; Tables XC–XCII"
+    }
+   ],
+   "caveats": "Same definitions and caveats as the City of London figure. 1921 boroughs aren't the same as today's local authorities."
+  },
+  {
+   "id": "h05",
+   "layer": "journey",
+   "title": "Early workmen's fares and an hour's wait before work",
+   "person": "Workers using workmen's trams and trains into central London (a group)",
+   "start": 1925,
+   "end": 1925,
+   "dateLabel": "Raised in Parliament on 17 February 1925",
+   "mode": "Workmen's trams and trains",
+   "region": "London",
+   "origin": {
+    "place": "Not specified",
+    "precision": "unknown",
+    "note": "The question doesn't name where the workers came from."
+   },
+   "destination": {
+    "place": "Central London",
+    "original": "the central districts of London",
+    "lon": -0.0869,
+    "lat": 51.5103,
+    "precision": "area",
+    "note": "Area marker only; no specific workplace is named."
+   },
+   "account": "Major Salmon MP said many workers who, for economic reasons, used cheap workmen's trams and trains to reach central London arrived early and often waited idle, sometimes in bad weather, for up to an hour before starting work, because workmen's tickets were only issued until about 7.30 a.m. He asked for this to be extended to 8 a.m. The Minister of Transport, Colonel Ashley, declined, citing the risk of congestion between 8 and 9 a.m.",
+   "quote": "as much as an hour before commencing work",
+   "sources": [
+    {
+     "title": "House of Commons: Railways and Tramways (Workmen's Tickets)",
+     "url": "https://hansard.parliament.uk/Commons/1925-02-17/debates/f48f58cd-ce4c-4766-b3b9-c44a5dbe6915/RailwaysAndTramways%28WorkmenSTickets%29",
+     "accessed": "2026-11-19",
+     "institution": "UK Parliament, Hansard",
+     "published": "17 February 1925",
+     "ref": "HC Deb 17 February 1925 vol 180"
+    }
+   ],
+   "caveats": "A question in Parliament describing a general situation. It gives no counts."
+  },
+  {
+   "id": "h06",
+   "layer": "journey",
+   "title": "'Travelling' underground: the unpaid walk to the coal face",
+   "person": "Coal miners, as observed by George Orwell",
+   "occupation": "Coal miners",
+   "start": 1936,
+   "end": 1936,
+   "dateLabel": "Observed early 1936; published 1937",
+   "mode": "On foot underground, stooping, after the cage ride down the shaft",
+   "frequency": "Every shift, as Orwell describes it",
+   "duration": "About 20 minutes a mile for an experienced miner; at least an hour a day in total, often two or three",
+   "durationKind": "writer's estimate, not timed",
+   "region": "Lancashire coalfield (Wigan)",
+   "origin": {
+    "place": "Pit-shaft bottom",
+    "original": null,
+    "lon": -2.6318,
+    "lat": 53.5448,
+    "precision": "area",
+    "note": "Orwell based his mining research around Wigan. The chapter doesn't name the pits, so this is an area marker."
+   },
+   "destination": {
+    "place": "Coal face",
+    "original": null,
+    "lon": -2.6318,
+    "lat": 53.5448,
+    "precision": "area",
+    "note": null
+   },
+   "account": "Orwell describes the journey from the bottom of the shaft to the coal face. He says it was often a mile, three miles was fairly normal and in a few mines it was up to five, walked bent double. Miners weren't paid for this 'travelling', which added at least an hour to the working day. This is travel inside the workplace rather than a commute from home, but it shaped the length of a miner's working day.",
+   "quote": "three miles is a fairly normal one",
+   "sources": [
+    {
+     "title": "The Road to Wigan Pier, chapter 2 ('Down the Mine')",
+     "url": "https://terebess.hu/english/orwell/esszek/14.html",
+     "accessed": "2026-11-19",
+     "author": "George Orwell",
+     "institution": "Victor Gollancz (Left Book Club); online text copy",
+     "published": "1937"
+    }
+   ],
+   "caveats": "A writer's description of mines he visited, not a survey."
+  },
+  {
+   "id": "h07",
+   "layer": "journey",
+   "title": "Buying a car because the journey to work was awkward",
+   "person": "Interviewee RJ39 (anonymised), male",
+   "start": 1950,
+   "end": 1959,
+   "dateLabel": "1950s, as recalled in an oral history interview (project 1996–99)",
+   "mode": "Car, bought for the journey to work",
+   "region": "Glasgow",
+   "origin": {
+    "place": "Not given",
+    "precision": "unknown",
+    "note": "Home and workplace are anonymised in the published extract."
+   },
+   "destination": {
+    "place": "Glasgow (area of interview)",
+    "original": null,
+    "lon": -4.26624,
+    "lat": 55.85833,
+    "precision": "area",
+    "note": "The interview is attributed to Glasgow; the workplace ('x') is anonymised."
+   },
+   "account": "In an oral history interview, a Glasgow man said he got a car in the 1950s because travelling to his workplace was awkward.",
+   "quote": "to travel to x was quite awkward",
+   "sources": [
+    {
+     "title": "Mobility, transport and social inclusion: lessons from history",
+     "url": "https://cogitatiopress.com/socialinclusion/article/download/461/352",
+     "accessed": "2026-11-19",
+     "author": "Colin Pooley",
+     "institution": "Social Inclusion 4(3), 100–109, doi:10.17645/si.v4i3.461",
+     "published": "7 June 2016",
+     "ref": "Oral history interviews from a Leverhulme Trust project on the journey to work in twentieth-century Britain (1996–99)"
+    }
+   ],
+   "caveats": "A single recollection recorded decades later."
+  },
+  {
+   "id": "h08",
+   "layer": "journey",
+   "title": "Bus, then bicycle, then car: one woman's journeys to work",
+   "person": "Diarist 'B' (anonymised), born 1928",
+   "occupation": "Worked on a chicken farm, then for an agricultural merchant from 1956",
+   "start": 1954,
+   "end": 1968,
+   "dateLabel": "Diary entries 1954–1968",
+   "mode": "Walk and bus (1954); mostly bicycle (from about 1958); car (from 1964)",
+   "region": "England (places anonymised in the source)",
+   "origin": {
+    "place": "Home (anonymised)",
+    "precision": "unknown",
+    "note": "Place names are anonymised in the published research, so this record isn't placed on the map."
+   },
+   "destination": {
+    "place": "Workplace 'W' (anonymised)",
+    "precision": "unknown",
+    "note": "Anonymised in the source."
+   },
+   "account": "In 1954 B's diary records catching the 7.45 bus to work, and walking to a bus stop for another bus. From about 1958 she mostly cycled. From 1964 she drove the roughly 3 km to work. On 18 March 1968 she had to cycle because the car had a flat tyre.",
+   "quote": "I walked to NH for 5 to 10 bus",
+   "sources": [
+    {
+     "title": "Walking spaces: changing pedestrian practices in Britain since c1850 (author's accepted manuscript)",
+     "url": "https://eprints.lancs.ac.uk/145653/1/Walking_spaces_paper_JTH_3_final_.pdf",
+     "accessed": "2026-11-19",
+     "author": "Colin G. Pooley",
+     "institution": "Lancaster University EPrints 145653",
+     "published": "2020",
+     "ref": "Diary of 'B' (author's copy), entries 19 Jan 1954, 15 Apr 1954, 18 Mar 1968"
+    }
+   ],
+   "caveats": "One diary. The researcher anonymised places, so the journey can't be mapped."
+  },
+  {
+   "id": "h09",
+   "layer": "journey",
+   "title": "An eight-minute drive, or two buses",
+   "person": "Interviewee RJ92 (anonymised), male",
+   "start": 1990,
+   "end": 1999,
+   "dateLabel": "1990s, as described in an oral history interview",
+   "mode": "Car; by public transport it would take two buses",
+   "duration": "Eight minutes by car",
+   "durationKind": "self-reported",
+   "region": "London",
+   "origin": {
+    "place": "Not given",
+    "precision": "unknown",
+    "note": "Anonymised."
+   },
+   "destination": {
+    "place": "London (area of interview)",
+    "original": null,
+    "lon": -0.16516,
+    "lat": 51.5151,
+    "precision": "area",
+    "note": "The interview is attributed to London; the locations aren't given."
+   },
+   "account": "A London interviewee explained driving a short journey to work because doing it by public transport would need two buses.",
+   "quote": "my little eight-minute journey, to do it by public transport would be two buses",
+   "sources": [
+    {
+     "title": "Mobility, transport and social inclusion: lessons from history",
+     "url": "https://cogitatiopress.com/socialinclusion/article/download/461/352",
+     "accessed": "2026-11-19",
+     "author": "Colin Pooley",
+     "institution": "Social Inclusion 4(3), 100–109, doi:10.17645/si.v4i3.461",
+     "published": "7 June 2016",
+     "ref": "Oral history interviews from a Leverhulme Trust project on the journey to work in twentieth-century Britain (1996–99)"
+    }
+   ],
+   "caveats": "A single recollection."
+  },
+  {
+   "id": "m01",
+   "layer": "journey",
+   "title": "Bolton → HMRC, Salford",
+   "person": "Dave Bryce",
+   "start": 2012,
+   "end": 2012,
+   "dateLabel": "Described in 2012",
+   "mode": "Bicycle, partly off-road",
+   "duration": null,
+   "durationKind": null,
+   "region": "England",
+   "origin": {
+    "place": "Bolton",
+    "original": null,
+    "lon": -2.44542,
+    "lat": 53.57477,
+    "precision": "area",
+    "note": "Marker at the 2011 census area's representative point; the source names only the town or area."
+   },
+   "destination": {
+    "place": "HMRC, Salford",
+    "original": null,
+    "lon": -2.3415,
+    "lat": 53.49686,
+    "precision": "area",
+    "note": "Marker at the 2011 census area's representative point; the source names only the town or area."
+   },
+   "account": "Cycles about 12 miles each way from Bolton to work at HMRC in Salford, usually two days out of a four-day week. He says it takes as long as the bus.",
+   "sources": [
+    {
+     "title": "British Cycling: Dave Bryce",
+     "url": "https://www.britishcycling.org.uk/article/trav20121129-We-are-British-Cycling---we-are-bike-commuters---Dave-Bryce-0",
+     "accessed": "2026-11-19",
+     "published": "2012 (page URL dated 29 Nov 2012; no date shown on the page)"
+    }
+   ],
+   "modern": {
+    "origin": "Bolton",
+    "destination": "HMRC, Salford",
+    "note": "Uses the place names stated by the author, not their actual home or workplace."
+   },
+   "caveats": "A self-reported anecdote, not a representative statistic."
+  },
+  {
+   "id": "m02",
+   "layer": "journey",
+   "title": "Tonbridge → Office near Old Street, London (via Cannon Street)",
+   "person": "Laura (first name only)",
+   "start": 2018,
+   "end": 2018,
+   "dateLabel": "Described in 2018",
+   "mode": "Walk, Southeastern train to Cannon Street, walk",
+   "duration": "Just under two hours each way",
+   "durationKind": "door to door, self-reported",
+   "region": "England",
+   "origin": {
+    "place": "Tonbridge",
+    "original": null,
+    "lon": 0.36795,
+    "lat": 51.26459,
+    "precision": "area",
+    "note": "Marker at the 2011 census area's representative point; the source names only the town or area."
+   },
+   "destination": {
+    "place": "Office near Old Street, London (via Cannon Street)",
+    "original": null,
+    "lon": -0.0878,
+    "lat": 51.5257,
+    "precision": "approximate",
+    "note": "Old Street area (Wikipedia coordinates for Old Street station); the exact office isn't given."
+   },
+   "account": "Walks about half an hour to Tonbridge station, takes a 45-minute train (station to station) to Cannon Street, then walks about 25 minutes. Works from home a couple of days a week.",
+   "sources": [
+    {
+     "title": "Londonist: Laura (first name only)",
+     "url": "https://londonist.com/london/transport/what-s-your-commute-tonbridge-to-cannon-street",
+     "accessed": "2026-11-19",
+     "published": "last updated 10 July 2018"
+    }
+   ],
+   "modern": {
+    "origin": "Tonbridge",
+    "destination": "Office near Old Street, London",
+    "note": "Uses the place names stated by the author, not their actual home or workplace."
+   },
+   "caveats": "A self-reported anecdote, not a representative statistic."
+  },
+  {
+   "id": "m03",
+   "layer": "journey",
+   "title": "Surbiton → Office near Charing Cross, London (via Waterloo)",
+   "person": "Paul (first name only)",
+   "start": 2018,
+   "end": 2018,
+   "dateLabel": "Described in 2018",
+   "mode": "Train to Waterloo, walk across Hungerford Bridge",
+   "duration": "One hour most days",
+   "durationKind": "door to door, self-reported",
+   "region": "England",
+   "origin": {
+    "place": "Surbiton",
+    "original": null,
+    "lon": -0.28309,
+    "lat": 51.39521,
+    "precision": "area",
+    "note": "Marker at the 2011 census area's representative point; the source names only the town or area."
+   },
+   "destination": {
+    "place": "Office near Charing Cross, London (via Waterloo)",
+    "original": null,
+    "lon": -0.16516,
+    "lat": 51.5151,
+    "precision": "area",
+    "note": "Marker at the 2011 census area's representative point; the source names only the town or area."
+   },
+   "account": "Takes the train from Surbiton to Waterloo and walks across Hungerford Bridge to an office near Charing Cross. About an hour door to door most days, more when things go wrong.",
+   "sources": [
+    {
+     "title": "Londonist: Paul (first name only)",
+     "url": "https://londonist.com/london/transport/what-s-your-commute-surbiton-to-waterloo",
+     "accessed": "2026-11-19",
+     "published": "last updated 20 July 2018"
+    }
+   ],
+   "modern": {
+    "origin": "Surbiton",
+    "destination": "Office near Charing Cross, London",
+    "note": "Uses the place names stated by the author, not their actual home or workplace."
+   },
+   "caveats": "A self-reported anecdote, not a representative statistic."
+  },
+  {
+   "id": "m04",
+   "layer": "journey",
+   "title": "Romford → Tring",
+   "person": "Morgan (first name only)",
+   "start": 2018,
+   "end": 2018,
+   "dateLabel": "Described in 2018",
+   "mode": "Lift to the station, TfL Rail, Underground, London Northwestern train, then bus, taxi or walk",
+   "duration": "Two hours at best; plans for two and a half",
+   "durationKind": "door to door, self-reported",
+   "region": "England",
+   "origin": {
+    "place": "Romford",
+    "original": null,
+    "lon": 0.20544,
+    "lat": 51.57226,
+    "precision": "area",
+    "note": "Marker at the 2011 census area's representative point; the source names only the town or area."
+   },
+   "destination": {
+    "place": "Tring",
+    "original": null,
+    "lon": -0.50533,
+    "lat": 51.761,
+    "precision": "area",
+    "note": "Marker at the 2011 census area's representative point; the source names only the town or area."
+   },
+   "account": "A dance teacher who travels from Romford to work in Tring three times a week, crossing London via Liverpool Street and Euston.",
+   "sources": [
+    {
+     "title": "Londonist: Morgan (first name only)",
+     "url": "https://londonist.com/london/transport/what-s-your-commute-romford-to-tring",
+     "accessed": "2026-11-19",
+     "published": "last updated 18 July 2018"
+    }
+   ],
+   "modern": {
+    "origin": "Romford",
+    "destination": "Tring",
+    "note": "Uses the place names stated by the author, not their actual home or workplace."
+   },
+   "caveats": "A self-reported anecdote, not a representative statistic."
+  },
+  {
+   "id": "m05",
+   "layer": "journey",
+   "title": "Home in Perth → Scottish Parliament, Holyrood, Edinburgh",
+   "person": "Rachel Amery (named in The Scotsman's accompanying video)",
+   "start": 2024,
+   "end": 2024,
+   "dateLabel": "Described in 2024",
+   "mode": "Train (7am service with 14 stops via Fife)",
+   "duration": "Two hours 20 minutes",
+   "durationKind": "door to door, self-reported",
+   "region": "Scotland",
+   "origin": {
+    "place": "Home in Perth",
+    "original": null,
+    "lon": -3.49048,
+    "lat": 56.42306,
+    "precision": "area",
+    "note": "Marker at the 2011 census area's representative point; the source names only the town or area."
+   },
+   "destination": {
+    "place": "Scottish Parliament, Holyrood, Edinburgh",
+    "original": null,
+    "lon": -3.21747,
+    "lat": 55.9428,
+    "precision": "area",
+    "note": "Marker at the 2011 census area's representative point; the source names only the town or area."
+   },
+   "account": "A political journalist's commute from Perth to Holyrood: about 45 miles. She notes the faster direct line via Kinross closed in 1970.",
+   "sources": [
+    {
+     "title": "The Scotsman: Rachel Amery (named in The Scotsman's accompanying video)",
+     "url": "https://www.scotsman.com/news/politics/perth-to-edinburgh-commute-quicker-in-victorian-times-scotrail-peak-fares-4769290",
+     "accessed": "2026-11-19",
+     "published": "2024 (exact date not shown)"
+    }
+   ],
+   "modern": {
+    "origin": "Perth",
+    "destination": "Scottish Parliament, Holyrood, Edinburgh",
+    "note": "Uses the place names stated by the author, not their actual home or workplace."
+   },
+   "caveats": "A self-reported anecdote, not a representative statistic."
+  }
+ ],
+ "infrastructure": [
+  {
+   "id": "i01",
+   "name": "Oystermouth (Swansea and Mumbles) Railway",
+   "kind": "tramway",
+   "opened": "25 March 1807",
+   "openedYear": 1807,
+   "closed": "5 January 1960",
+   "closedYear": 1960,
+   "dateLabel": "opened 25 March 1807, closed 5 January 1960",
+   "stations": [
+    {
+     "name": "Swansea (Brewery Bank, approximate)",
+     "lon": -3.95,
+     "lat": 51.61667
+    },
+    {
+     "name": "Oystermouth (Castle Hill)",
+     "lon": -4.00297,
+     "lat": 51.57645
+    }
+   ],
+   "path": [
+    [
+     -3.95,
+     51.61667
+    ],
+    [
+     -4.00297,
+     51.57645
+    ]
+   ],
+   "note": "Horse-drawn at first: the first regular fare-paying passenger service. Steam from 1877, electric trams from 1929. Swansea end placed at the city centre (approximate).",
+   "sources": [
+    {
+     "title": "The Mumbles Railway",
+     "url": "https://www.peoplescollection.wales/content/mumbles-railway",
+     "accessed": "2026-11-19",
+     "institution": "People's Collection Wales"
+    },
+    {
+     "title": "Swansea and Mumbles Railway",
+     "url": "https://gracesguide.co.uk/Swansea_and_Mumbles_Railway",
+     "accessed": "2026-11-19",
+     "institution": "Grace's Guide to British Industrial History"
+    }
+   ]
+  },
+  {
+   "id": "i02",
+   "name": "Liverpool and Manchester Railway",
+   "kind": "railway",
+   "opened": "15 September 1830",
+   "openedYear": 1830,
+   "closed": null,
+   "closedYear": null,
+   "dateLabel": "opened 15 September 1830",
+   "stations": [
+    {
+     "name": "Liverpool Crown Street",
+     "lon": -2.9572,
+     "lat": 53.40037
+    },
+    {
+     "name": "Manchester Liverpool Road",
+     "lon": -2.25556,
+     "lat": 53.47694
+    }
+   ],
+   "path": [
+    [
+     -2.9572,
+     53.40037
+    ],
+    [
+     -2.25556,
+     53.47694
+    ]
+   ],
+   "note": "Original termini. Crown Street was soon replaced by Lime Street; the route remains in use.",
+   "sources": [
+    {
+     "title": "Wikipedia: Liverpool and Manchester Railway",
+     "url": "https://en.wikipedia.org/wiki/Liverpool_and_Manchester_Railway",
+     "accessed": "2026-11-19",
+     "institution": "Wikipedia (dates and station coordinates, with the article's cited sources)"
+    },
+    {
+     "title": "Wikipedia: Crown Street railway station",
+     "url": "https://en.wikipedia.org/wiki/Crown_Street_railway_station",
+     "accessed": "2026-11-19",
+     "institution": "Wikipedia (dates and station coordinates, with the article's cited sources)"
+    }
+   ]
+  },
+  {
+   "id": "i03",
+   "name": "Belfast and County Down Railway: Belfast–Holywood",
+   "kind": "railway",
+   "opened": "2 August 1848",
+   "openedYear": 1848,
+   "closed": null,
+   "closedYear": null,
+   "dateLabel": "opened 2 August 1848",
+   "stations": [
+    {
+     "name": "Belfast Queen's Quay",
+     "lon": -5.9174,
+     "lat": 54.6016
+    },
+    {
+     "name": "Holywood",
+     "lon": -5.8395,
+     "lat": 54.6411
+    }
+   ],
+   "path": [
+    [
+     -5.9174,
+     54.6016
+    ],
+    [
+     -5.8395,
+     54.6411
+    ]
+   ],
+   "note": "The first section of the BCDR. Extended to Bangor in 1865 by another company.",
+   "sources": [
+    {
+     "title": "Belfast & County Down Railway",
+     "url": "https://www.downrail.co.uk/about/bcdr/",
+     "accessed": "2026-11-19",
+     "institution": "Downpatrick & County Down Railway"
+    },
+    {
+     "title": "Wikipedia: Holywood railway station (Northern Ireland)",
+     "url": "https://en.wikipedia.org/wiki/Holywood_railway_station_(Northern_Ireland)",
+     "accessed": "2026-11-19",
+     "institution": "Wikipedia (dates and station coordinates, with the article's cited sources)"
+    }
+   ]
+  },
+  {
+   "id": "i04",
+   "name": "Metropolitan Railway: Paddington–Farringdon",
+   "kind": "underground",
+   "opened": "10 January 1863",
+   "openedYear": 1863,
+   "closed": null,
+   "closedYear": null,
+   "dateLabel": "opened 10 January 1863",
+   "stations": [
+    {
+     "name": "Paddington (Bishop's Road)",
+     "lon": -0.1785,
+     "lat": 51.5186
+    },
+    {
+     "name": "Farringdon Street",
+     "lon": -0.105,
+     "lat": 51.52056
+    }
+   ],
+   "path": [
+    [
+     -0.1785,
+     51.5186
+    ],
+    [
+     -0.105,
+     51.52056
+    ]
+   ],
+   "note": "The world's first passenger underground railway. Workmen's trains followed.",
+   "sources": [
+    {
+     "title": "Wikipedia: Metropolitan Railway",
+     "url": "https://en.wikipedia.org/wiki/Metropolitan_Railway",
+     "accessed": "2026-11-19",
+     "institution": "Wikipedia (dates and station coordinates, with the article's cited sources)"
+    }
+   ]
+  },
+  {
+   "id": "i05",
+   "name": "Mersey Railway: Liverpool–Birkenhead",
+   "kind": "railway",
+   "opened": "1886",
+   "openedYear": 1886,
+   "closed": null,
+   "closedYear": null,
+   "dateLabel": "opened 1886",
+   "stations": [
+    {
+     "name": "Liverpool James Street",
+     "lon": -2.9919,
+     "lat": 53.4048
+    },
+    {
+     "name": "Birkenhead Green Lane",
+     "lon": -3.016,
+     "lat": 53.383
+    }
+   ],
+   "path": [
+    [
+     -2.9919,
+     53.4048
+    ],
+    [
+     -3.016,
+     53.383
+    ]
+   ],
+   "note": "Under the Mersey by tunnel. The year comes from the cited article, which gives no day.",
+   "sources": [
+    {
+     "title": "Wikipedia: Mersey Railway",
+     "url": "https://en.wikipedia.org/wiki/Mersey_Railway",
+     "accessed": "2026-11-19",
+     "institution": "Wikipedia (dates and station coordinates, with the article's cited sources)"
+    }
+   ]
+  },
+  {
+   "id": "i06",
+   "name": "City and South London Railway",
+   "kind": "underground",
+   "opened": "1890",
+   "openedYear": 1890,
+   "closed": null,
+   "closedYear": null,
+   "dateLabel": "opened 1890",
+   "stations": [
+    {
+     "name": "Stockwell",
+     "lon": -0.122,
+     "lat": 51.4725
+    },
+    {
+     "name": "King William Street",
+     "lon": -0.08694,
+     "lat": 51.51028
+    }
+   ],
+   "path": [
+    [
+     -0.122,
+     51.4725
+    ],
+    [
+     -0.08694,
+     51.51028
+    ]
+   ],
+   "note": "The first deep-level electric tube line.",
+   "sources": [
+    {
+     "title": "Wikipedia: City and South London Railway",
+     "url": "https://en.wikipedia.org/wiki/City_and_South_London_Railway",
+     "accessed": "2026-11-19",
+     "institution": "Wikipedia (dates and station coordinates, with the article's cited sources)"
+    }
+   ]
+  },
+  {
+   "id": "i07",
+   "name": "Glasgow District Subway",
+   "kind": "underground",
+   "opened": "14 December 1896",
+   "openedYear": 1896,
+   "closed": null,
+   "closedYear": null,
+   "dateLabel": "opened 14 December 1896",
+   "stations": [
+    {
+     "name": "St Enoch",
+     "lon": -4.25583,
+     "lat": 55.85694
+    },
+    {
+     "name": "Buchanan Street",
+     "lon": -4.25341,
+     "lat": 55.86246
+    },
+    {
+     "name": "St George's Cross",
+     "lon": -4.26972,
+     "lat": 55.87194
+    },
+    {
+     "name": "Hillhead",
+     "lon": -4.29222,
+     "lat": 55.87583
+    },
+    {
+     "name": "Partick",
+     "lon": -4.3092,
+     "lat": 55.8698
+    },
+    {
+     "name": "Govan",
+     "lon": -4.31056,
+     "lat": 55.86222
+    },
+    {
+     "name": "Ibrox",
+     "lon": -4.30528,
+     "lat": 55.85444
+    },
+    {
+     "name": "Bridge Street",
+     "lon": -4.25861,
+     "lat": 55.85167
+    }
+   ],
+   "path": [
+    [
+     -4.25583,
+     55.85694
+    ],
+    [
+     -4.25341,
+     55.86246
+    ],
+    [
+     -4.26972,
+     55.87194
+    ],
+    [
+     -4.29222,
+     55.87583
+    ],
+    [
+     -4.3092,
+     55.8698
+    ],
+    [
+     -4.31056,
+     55.86222
+    ],
+    [
+     -4.30528,
+     55.85444
+    ],
+    [
+     -4.25861,
+     55.85167
+    ],
+    [
+     -4.25583,
+     55.85694
+    ]
+   ],
+   "note": "A circular line, drawn through 8 of its 15 stations.",
+   "sources": [
+    {
+     "title": "Celebrating 125 years of Subway",
+     "url": "https://spt.co.uk/125",
+     "accessed": "2026-11-19",
+     "institution": "Strathclyde Partnership for Transport"
+    },
+    {
+     "title": "Wikipedia: Glasgow Subway",
+     "url": "https://en.wikipedia.org/wiki/Glasgow_Subway",
+     "accessed": "2026-11-19",
+     "institution": "Wikipedia (dates and station coordinates, with the article's cited sources)"
+    }
+   ]
+  },
+  {
+   "id": "i08",
+   "name": "Tyne and Wear Metro (first phase)",
+   "kind": "railway",
+   "opened": "11 August 1980",
+   "openedYear": 1980,
+   "closed": null,
+   "closedYear": null,
+   "dateLabel": "opened 11 August 1980",
+   "stations": [
+    {
+     "name": "Haymarket",
+     "lon": -1.6139,
+     "lat": 54.9775
+    },
+    {
+     "name": "Tynemouth",
+     "lon": -1.42887,
+     "lat": 55.01705
+    }
+   ],
+   "path": [
+    [
+     -1.6139,
+     54.9775
+    ],
+    [
+     -1.42887,
+     55.01705
+    ]
+   ],
+   "note": "The first section ran between Haymarket and Tynemouth via Four Lane Ends.",
+   "sources": [
+    {
+     "title": "Wikipedia: Haymarket Metro station",
+     "url": "https://en.wikipedia.org/wiki/Haymarket_Metro_station",
+     "accessed": "2026-11-19",
+     "institution": "Wikipedia (dates and station coordinates, with the article's cited sources)"
+    }
+   ]
+  },
+  {
+   "id": "i09",
+   "name": "Elizabeth line (central section)",
+   "kind": "railway",
+   "opened": "24 May 2022",
+   "openedYear": 2022,
+   "closed": null,
+   "closedYear": null,
+   "dateLabel": "opened 24 May 2022",
+   "stations": [
+    {
+     "name": "Paddington",
+     "lon": -0.1774,
+     "lat": 51.5173
+    },
+    {
+     "name": "Abbey Wood",
+     "lon": 0.1214,
+     "lat": 51.491
+    }
+   ],
+   "path": [
+    [
+     -0.1774,
+     51.5173
+    ],
+    [
+     0.1214,
+     51.491
+    ]
+   ],
+   "note": "Passenger services began on 24 May 2022.",
+   "sources": [
+    {
+     "title": "Wikipedia: Elizabeth line",
+     "url": "https://en.wikipedia.org/wiki/Elizabeth_line",
+     "accessed": "2026-11-19",
+     "institution": "Wikipedia (dates and station coordinates, with the article's cited sources)"
+    }
+   ]
+  }
+ ],
+ "snapshots": [
+  {
+   "id": "c1921",
+   "year": 1921,
+   "date": "1921-06-19",
+   "label": "1921 Census workplace statistics (England and Wales)",
+   "coverage": "England and Wales; borough and district level",
+   "inApp": false,
+   "note": "The first census to ask for each worker's place of work (England and Wales). Its flow tables were printed in the Workplaces volume. They aren't digitised here, so the map shows only the two headline figures quoted in the General Report.",
+   "sources": [
+    {
+     "title": "1921 Census of England and Wales, General Report with Appendices, Part XI: Workplaces",
+     "url": "https://www.visionofbritain.org.uk/census/EW1921GEN/12",
+     "accessed": "2026-11-19",
+     "institution": "General Register Office (HMSO); transcription by A Vision of Britain through Time, University of Portsmouth",
+     "ref": "Part XI, Workplaces; Tables XC–XCII"
+    }
+   ]
+  },
+  {
+   "id": "c2011",
+   "year": 2011,
+   "date": "2011-03-27",
+   "label": "2011 Census (27 March 2011)",
+   "coverage": "all four UK nations, 404 local authority areas",
+   "inApp": true,
+   "note": "Full origin–destination table WU03UK, by method of travel.",
+   "sources": [
+    {
+     "title": "WU03UK",
+     "url": "https://www.nomisweb.co.uk/census/2011/wu03uk",
+     "accessed": "2026-11-19",
+     "institution": "ONS, NRS and NISRA via Nomis"
+    }
+   ]
+  }
+ ],
+ "coverage": [
+  {
+   "period": "1800–1829",
+   "statistical": "None",
+   "journeys": "None verified yet",
+   "infrastructure": "Oystermouth (Swansea and Mumbles) Railway, 1807"
+  },
+  {
+   "period": "1830–1849",
+   "statistical": "None (no workplace question before 1921)",
+   "journeys": "Mill worker's testimony, 1832 (Leeds)",
+   "infrastructure": "Liverpool and Manchester, 1830; Belfast–Holywood, 1848"
+  },
+  {
+   "period": "1850–1899",
+   "statistical": "None",
+   "journeys": "Workmen's trains to Liverpool Street, 1893",
+   "infrastructure": "Metropolitan, 1863; Mersey, 1886; City & South London, 1890; Glasgow Subway, 1896"
+  },
+  {
+   "period": "1900–1949",
+   "statistical": "1921 Census: two headline workplace figures (E&W only)",
+   "journeys": "Workmen's fares, 1925 (London); miners' underground 'travelling', 1936",
+   "infrastructure": "—"
+  },
+  {
+   "period": "1950–1999",
+   "statistical": "Not loaded: later census workplace tables exist (1951–2001) but aren't included",
+   "journeys": "Glasgow 1950s; diarist B 1954–68; London 1990s",
+   "infrastructure": "Tyne and Wear Metro, 1980"
+  },
+  {
+   "period": "2000–2010",
+   "statistical": "Not loaded (2001 Census flows exist)",
+   "journeys": "None verified yet",
+   "infrastructure": "—"
+  },
+  {
+   "period": "2011",
+   "statistical": "Full UK flow table, all four nations (drawn on the map)",
+   "journeys": "—",
+   "infrastructure": "—"
+  },
+  {
+   "period": "2012–now",
+   "statistical": "No newer UK-wide table loaded. 2021 (E&W, NI) and 2022 (Scotland) differ in date and were affected by the pandemic",
+   "journeys": "Self-reported commutes, 2012, 2018 (three) and 2024",
+   "infrastructure": "Elizabeth line, 2022"
+  },
+  {
+   "period": "Gaps",
+   "statistical": "—",
+   "journeys": "No verified individual journeys yet for Wales or Northern Ireland, or before 1832",
+   "infrastructure": "Only a small sample of lines; many more opened and closed"
+  }
+ ]
+}

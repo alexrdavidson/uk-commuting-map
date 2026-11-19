@@ -1,0 +1,6 @@
+node_modules/
+dist/
+pipeline/node_modules/
+pipeline/build/
+.env.local
+*.log

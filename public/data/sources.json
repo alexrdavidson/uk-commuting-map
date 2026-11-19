@@ -1,0 +1,101 @@
+{
+ "generated": "2026-11-19",
+ "sources": [
+  {
+   "id": "wu03uk",
+   "publisher": "Office for National Statistics, National Records of Scotland, Northern Ireland Statistics and Research Agency (via Nomis)",
+   "title": "Location of usual residence and place of work by method of travel to work",
+   "table_id": "WU03UK",
+   "year": "2011 Census (27 March 2011)",
+   "geography": "United Kingdom; census merged local authority districts (404)",
+   "url": "https://www.nomisweb.co.uk/census/2011/wu03uk",
+   "download_url": "https://www.nomisweb.co.uk/api/v01/dataset/nm_1207_1.bulk.csv?time=latest&measures=20100&usual_residence=TYPE270",
+   "accessed": "2026-11-19",
+   "licence": "Open Government Licence v3.0",
+   "sha256": "3275030ac29be6b71c696bd94419923f9e830b19027b98ce252087a16e84a7de",
+   "file": "raw/wu03uk_bulk.csv",
+   "notes": "Nomis dataset NM_1207_1, last updated 2014-11-25. The landing page's 'Download (.csv)' form returned 'Cannot create query' on the access date; the equivalent bulk query above (usual_residence=TYPE270) returns the full table."
+  },
+  {
+   "id": "cmlad11",
+   "publisher": "Office for National Statistics (Open Geography Portal)",
+   "title": "Census Merged Local Authority Districts (December 2011) Boundaries EW BGC",
+   "year": "December 2011",
+   "geography": "England and Wales, 346 areas",
+   "url": "https://geoportal.statistics.gov.uk/",
+   "download_url": "https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/CMLAD_Dec_2011_GCB_GB_2022/FeatureServer/0/query?where=1%3D1&outFields=cmlad11cd,cmlad11nm&returnGeometry=true&outSR=4326&geometryPrecision=5&maxAllowableOffset=0.0005&f=geojson",
+   "accessed": "2026-11-19",
+   "licence": "Open Government Licence v3.0; contains OS data \u00a9 Crown copyright and database right",
+   "sha256": "595f2d84f64064610df15e591ec0e980232be765eb73560aadf201e3082e31a3",
+   "file": "raw/ons_cmlad_dec2011_ew_bgc.geojson"
+  },
+  {
+   "id": "lad11_sc",
+   "publisher": "Office for National Statistics (Open Geography Portal)",
+   "title": "Local Authority Districts (December 2011) Boundaries GB BGC (Scottish council areas only)",
+   "year": "December 2011",
+   "geography": "Scotland, 32 council areas (2011 S12 codes)",
+   "url": "https://geoportal.statistics.gov.uk/",
+   "download_url": "https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/Local_Authority_Districts_December_2011_GB_BGC_2022/FeatureServer/0/query?where=lad11cd%20LIKE%20'S%25'&outFields=lad11cd,lad11nm&returnGeometry=true&outSR=4326&geometryPrecision=5&maxAllowableOffset=0.0005&f=geojson",
+   "accessed": "2026-11-19",
+   "licence": "Open Government Licence v3.0; contains OS data \u00a9 Crown copyright and database right; contains NRS data \u00a9 Crown copyright",
+   "sha256": "dbd5c5d103e9642229466eb4d36829acc744cf40cbb4ac2802323d7552eabde3",
+   "file": "raw/ons_lad_dec2011_gb_bgc_scotland.geojson"
+  },
+  {
+   "id": "lgd1993",
+   "publisher": "Ordnance Survey of Northern Ireland (SpatialNI)",
+   "title": "OSNI Legacy - Local Government Districts 1993",
+   "year": "Districts in force 1973-2015 (1993 boundary set)",
+   "geography": "Northern Ireland, 26 districts (95xx codes)",
+   "url": "https://osni-spatialni.opendata.arcgis.com/",
+   "download_url": "https://utility.arcgis.com/usrsvcs/servers/296396b307384d8983fd7ad77ac9be73/rest/services/Boundaries/OSNIAdministrativeBoundaries/MapServer/9/query?where=1%3D1&outFields=LGDNAME,LGD_ID,LGD_CODE,AreaSqKM&returnGeometry=true&outSR=4326&maxAllowableOffset=0.0005&geometryPrecision=5&f=geojson",
+   "accessed": "2026-11-19",
+   "licence": "Open Government Licence (OSNI Open Data)",
+   "sha256": "0b371a6fa3b0baf7827d152589603e5ae733b1b85abdff1e511a15e4b98f5395",
+   "file": "raw/osni_lgd1993.geojson",
+   "notes": "The service only answers requests referred from spatialni.gov.uk; it was downloaded from a browser page on that site."
+  },
+  {
+   "id": "geostat11",
+   "publisher": "Office for National Statistics (Open Geography Portal)",
+   "title": "GEOSTAT (December 2011) 1 km grid population, United Kingdom",
+   "year": "2011 Census",
+   "geography": "UK, 1 km grid (EPSG:3035)",
+   "url": "https://geoportal.statistics.gov.uk/",
+   "download_url": "https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/GEOSTAT_Dec_2011_GEC_in_the_United_Kingdom_2022/FeatureServer/0/query?where=tot_p%20%3E%200&outFields=OBJECTID,grd_newid,tot_p&returnGeometry=false&orderByFields=OBJECTID&resultRecordCount=2000&resultOffset={offset}&f=json",
+   "accessed": "2026-11-19",
+   "licence": "Open Government Licence v3.0",
+   "sha256": "1f22f89878d32ea8fbd4e5bfa1ed96849f1a96212aee9b0f6141349ef7609c51",
+   "file": "raw/ons_geostat2011_uk_1km_population.csv",
+   "notes": "128,022 populated cells (63,154,087 people), paged 2,000 at a time and written as CSV (objectid, grd_newid, tot_p). Used only to place representative points."
+  },
+  {
+   "id": "ttwa11",
+   "publisher": "Office for National Statistics (Open Geography Portal)",
+   "title": "Travel to Work Areas (December 2011) Boundaries UK BSC",
+   "year": "2011",
+   "geography": "UK, 228 TTWAs",
+   "url": "https://geoportal.statistics.gov.uk/",
+   "download_url": "https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/Travel_to_Work_Areas_Dec_2011_SGCB_in_United_Kingdom_2022/FeatureServer/0/query?where=1%3D1&outFields=TTWA11CD,TTWA11NM&returnGeometry=true&outSR=4326&geometryPrecision=5&maxAllowableOffset=0.001&f=geojson",
+   "accessed": "2026-11-19",
+   "licence": "Open Government Licence v3.0; contains OS data \u00a9 Crown copyright and database right",
+   "sha256": "2ab315af6abef3eac2c92f7a4e4b3f45516799d49664d7f896db3b7892c78c75",
+   "file": "raw/ons_ttwa2011_uk_bsc.geojson",
+   "notes": "Optional comparison overlay only."
+  },
+  {
+   "id": "naturalearth",
+   "publisher": "Natural Earth",
+   "title": "Admin 0 \u2013 Countries, 1:10m (context land outside the UK)",
+   "year": "v5 (GitHub master)",
+   "geography": "World; clipped to the map frame",
+   "url": "https://www.naturalearthdata.com/",
+   "download_url": "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/ne_10m_admin_0_countries.geojson",
+   "accessed": "2026-11-19",
+   "licence": "Public domain",
+   "sha256": "239eec57ac17f100a11e2536cffc56752c318b50ae765b0918ff7aab4ce8f255",
+   "file": "raw/context/ne_10m_admin_0_countries.geojson"
+  }
+ ]
+}

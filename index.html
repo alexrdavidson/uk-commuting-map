@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en-GB">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>The UK, connected by commuting</title>
+    <meta name="description" content="An interactive map of where people lived and worked in the 2011 Census across all four UK nations: 404 local authority areas, 11.3 million people commuting between areas, coloured by commuting communities found with the Leiden algorithm. Plus a timeline of verified historical commutes." />
+    <link rel="icon" type="image/svg+xml" href="./favicon.svg" />
+    <meta name="theme-color" content="#ffffff" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="The UK, connected by commuting" />
+    <meta property="og:description" content="Where people lived and worked on census day 2011, across all four UK nations, with commuting communities found in the data. Lines are statistical connections, not routes." />
+    <meta property="og:image" content="%VITE_SITE_URL%/og-image.png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content="Map of the UK covered in fine coloured lines linking home and workplace areas from the 2011 Census, grouped into commuting communities around London, Manchester, Leeds, Glasgow, Birmingham, Bristol, Cardiff, Belfast and other centres." />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="The UK, connected by commuting" />
+    <meta name="twitter:description" content="2011 Census commuting flows across all four UK nations, mapped and clustered into commuting communities." />
+    <meta name="twitter:image" content="%VITE_SITE_URL%/og-image.png" />
+  </head>
+  <body>
+    <noscript>This interactive map needs JavaScript. The underlying data is the 2011 Census table WU03UK (ONS, NRS, NISRA), available from Nomis.</noscript>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

@@ -1,0 +1,117 @@
+{
+ "method": "Leiden (leidenalg, RBConfigurationVertexPartition = modularity with resolution parameter)",
+ "leidenalg_version": "0.12.0",
+ "igraph_version": "1.0.0",
+ "resolution": 1.0,
+ "seeds_tried": 100,
+ "chosen_seed": 42,
+ "n_iterations": "until stable (-1)",
+ "communities": 13,
+ "modularity": 0.7148,
+ "resolutions_offered": [
+  0.5,
+  1.0,
+  2.0
+ ],
+ "stability_ami_mean": 0.9,
+ "stability_ami_min": 0.825,
+ "weighting": "undirected; weight = commuters A->B + commuters B->A, all modes",
+ "direction": "flows symmetrised for community detection only; the map keeps direction",
+ "self_loops": "excluded (within-area commuting is shown separately, not as a network edge)",
+ "threshold": "none: all 108,142 non-zero between-area flows are used before any display filter",
+ "sensitivity": [
+  {
+   "resolution": 0.5,
+   "communities": 8,
+   "modularity": 0.6855,
+   "ami_vs_default": 0.769
+  },
+  {
+   "resolution": 0.75,
+   "communities": 10,
+   "modularity": 0.7104,
+   "ami_vs_default": 0.853
+  },
+  {
+   "resolution": 1.0,
+   "communities": 14,
+   "modularity": 0.7146,
+   "ami_vs_default": 0.913
+  },
+  {
+   "resolution": 1.5,
+   "communities": 18,
+   "modularity": 0.7081,
+   "ami_vs_default": 0.872
+  },
+  {
+   "resolution": 2.0,
+   "communities": 20,
+   "modularity": 0.6961,
+   "ami_vs_default": 0.818
+  },
+  {
+   "resolution": 3.0,
+   "communities": 25,
+   "modularity": 0.6486,
+   "ami_vs_default": 0.785
+  },
+  {
+   "resolution": 5.0,
+   "communities": 38,
+   "modularity": 0.5899,
+   "ami_vs_default": 0.74
+  }
+ ],
+ "qa": {
+  "rows_in_file": 172508,
+  "duplicate_rows": 1212,
+  "duplicate_destinations": [
+   "N92000002",
+   "S92000003",
+   "W92000004"
+  ],
+  "duplicates_identical": true,
+  "aggregate_destination_codes_dropped": [
+   "E12000001",
+   "E12000002",
+   "E12000003",
+   "E12000004",
+   "E12000005",
+   "E12000006",
+   "E12000007",
+   "E12000008",
+   "E12000009",
+   "E92000001",
+   "K02000001",
+   "K03000001",
+   "K04000001",
+   "N92000002",
+   "S92000003",
+   "W92000004"
+  ],
+  "mode_sum_mismatches": 0,
+  "negative_values": 0,
+  "missing_values": 0,
+  "home_mode_on_area_destinations": 0,
+  "explicit_zero_pairs": 54670,
+  "area_destinations_sum_equals_UK_aggregate": true,
+  "total_resident_workers": 30008634,
+  "total_between_areas": 11260336,
+  "total_within_areas": 12980169,
+  "total_home": 3138022,
+  "total_no_fixed": 2513680,
+  "total_offshore": 63473,
+  "total_outside_uk": 52954,
+  "flows_between_areas_nonzero": 108142,
+  "undirected_edges": 65564,
+  "share_between_area_commuting_within_communities": 0.8529,
+  "ttwa_comparison": {
+   "ttwas_containing_area_points": 183,
+   "nmi": 0.663,
+   "ami": 0.416,
+   "ari": 0.223,
+   "note": "TTWAs (228) are built by ONS from LSOA-level 2011 flows with self-containment rules; our communities come from LA-level flows with modularity, so they are coarser and not expected to match."
+  }
+ }
+}
