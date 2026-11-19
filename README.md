@@ -1,5 +1,7 @@
 # The UK, connected by commuting
 
+**Live site: https://www.alexdavidson.me/uk-commuting-map/**
+
 An interactive map of where people **lived** and **worked** on census day, 27 March 2011, across all four UK nations (404 local authority areas, 108,142 connections between areas). Lines are coloured by exploratory commuting communities found with the Leiden algorithm. A second view, **“200 years of the British commute”**, adds a year slider with verified historical evidence from 1807 to 2024.
 
 Lines are statistical connections between area representative points. They are **not** routes. The 2011 data is a historical baseline, not a description of commuting today.
@@ -37,7 +39,11 @@ npx vite preview --port 4173 &
 python3 tests/e2e.py http://localhost:4173/    # needs Playwright for Python and Chrome
 ```
 
-## Deploy to Cloudflare Pages (free plan, £0/month)
+## Deployment
+
+The live site is built and published by GitHub Pages on every push to `main` (`.github/workflows/pages.yml`, free for public repositories). `VITE_SITE_URL` in that workflow sets the absolute URL used for the social preview image.
+
+### Alternative: Cloudflare Pages (free plan, £0/month)
 
 1. Choose the final URL (for example `https://uk-commuting.pages.dev` or your own domain) and build with it, so the social preview image has an absolute URL:
    ```bash
