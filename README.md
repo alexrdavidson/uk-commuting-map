@@ -1,5 +1,8 @@
 # The UK, connected by commuting
 
+<img width="800" height="450" alt="ezgif-8ed41fa774e03ddf" src="https://github.com/user-attachments/assets/31553a9f-d1f1-4c09-85a2-2d2a3ba85951" />
+
+
 **Live site: https://www.alexdavidson.me/uk-commuting-map/**
 
 An interactive map of where people **lived** and **worked** on census day, 27 March 2011, across all four UK nations (404 local authority areas, 108,142 connections between areas). Lines are coloured by exploratory commuting communities found with the Leiden algorithm. A second view, **“200 years of the British commute”**, adds a year slider with verified historical evidence from 1807 to 2024.
